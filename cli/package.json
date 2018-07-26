@@ -1,5 +1,17 @@
 {
   "name": "@towercg2/cli",
+  "description": "The command-line components for TowerCG2's server.",
+  "author": "Ed Ropple <ed+towercg2@edropple.com> (https://edboxes.com)",
+  "license": "AGPL-3.0",
+  "homepage": "https://github.com/towercg2/towercg2",
+  "bugs": "https://github.com/towercg2/towercg2/issues",
+  "keywords": [
+    "obs", "streaming", "twitch", "nodecg", "xsplit", "overlays", "vmix", "wirecast", "miracast", "mixer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/towercg2/towercg2"
+  },
   "version": "0.1.0",
   "private": true,
   "main": "dist",
