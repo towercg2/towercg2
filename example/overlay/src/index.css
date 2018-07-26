@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: rgba(0, 0, 0, 0);
+  font-family: sans-serif;
+}
+
+div#TICKS {
+  padding: 1rem;
+  background: rgba(0, 0, 0, 0.25);
+  color: #ffffff;
+  width: auto;
+}

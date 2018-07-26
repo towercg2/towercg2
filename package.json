@@ -1,0 +1,25 @@
+{
+  "name": "@towercg2/workspace",
+  "workspaces": [
+    "server",
+    "client",
+    "cli",
+    "react",
+    "example/backend",
+    "example/overlay"
+  ],
+  "private": true,
+  "scripts": {
+    "build": "oao run-script build --parallel",
+    "clean": "oao run-script clean --parallel",
+    "test": "oao run-script test",
+    "watch": "oao run-script watch --parallel"
+  },
+  "devDependencies": {
+    "oao": "^1.5.1",
+    "prettier-package-json": "^1.6.0",
+    "pryjs": "1.0.3",
+    "typedoc": "^0.11.1",
+    "typescript": "2.8.4"
+  }
+}
