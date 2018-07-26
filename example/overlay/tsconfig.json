@@ -16,7 +16,11 @@
     "noImplicitAny": true,
     "strictNullChecks": true,
     "suppressImplicitAnyIndexErrors": true,
-    "noUnusedLocals": true
+    "noUnusedLocals": true,
+    "paths": {
+      "@towercg2/react": ["../react/dist"],
+      "@towercg2/client": ["../client/dist"]
+    }
   },
   "exclude": [
     "node_modules",
