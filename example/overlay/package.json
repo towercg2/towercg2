@@ -1,6 +1,6 @@
 {
   "name": "@towercg2-examples/overlay",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@towercg2/client": "0.1.0",
