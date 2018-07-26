@@ -21,7 +21,7 @@
     "type": "git",
     "url": "https://github.com/towercg2/towercg2"
   },
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "dist",
   "files": [
     "*"
