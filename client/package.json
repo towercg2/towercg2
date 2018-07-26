@@ -1,6 +1,26 @@
 {
   "name": "@towercg2/client",
   "description": "The client (NodeJS or browser) for the TowerCG2 video overlay system.",
+  "author": "Ed Ropple <ed+towercg2@edropple.com> (https://edboxes.com)",
+  "license": "AGPL-3.0",
+  "homepage": "https://github.com/towercg2/towercg2",
+  "bugs": "https://github.com/towercg2/towercg2/issues",
+  "keywords": [
+    "obs",
+    "streaming",
+    "twitch",
+    "nodecg",
+    "xsplit",
+    "overlays",
+    "vmix",
+    "wirecast",
+    "miracast",
+    "mixer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/towercg2/towercg2"
+  },
   "version": "0.1.1",
   "main": "dist",
   "files": [
