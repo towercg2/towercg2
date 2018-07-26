@@ -22,7 +22,6 @@
     "url": "https://github.com/towercg2/towercg2"
   },
   "version": "0.1.1",
-  "private": true,
   "main": "dist",
   "files": [
     "*"

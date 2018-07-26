@@ -2,7 +2,6 @@
   "name": "@towercg2/client",
   "description": "The client (NodeJS or browser) for the TowerCG2 video overlay system.",
   "version": "0.1.1",
-  "private": true,
   "main": "dist",
   "files": [
     "*"
